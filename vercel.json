@@ -1,0 +1,7 @@
+{
+  "buildCommand": "pnpm build",
+  "outputDirectory": "dist/public",
+  "installCommand": "pnpm install",
+  "framework": "vite",
+  "nodeVersion": "24.x"
+}
