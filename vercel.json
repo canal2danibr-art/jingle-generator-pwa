@@ -2,5 +2,7 @@
   "buildCommand": "pnpm build",
   "outputDirectory": "dist",
   "installCommand": "pnpm install",
-  "framework": "vite"
+  "framework": "vite",
+  "cleanUrls": true,
+  "trailingSlash": false
 }
